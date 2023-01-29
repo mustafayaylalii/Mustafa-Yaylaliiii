@@ -1,2 +1,2 @@
 # LittleJumper31
-Bu repo jump Python için açılmıştır.
+Bu repo yeni jump Python içerikleri için açılıştır.
