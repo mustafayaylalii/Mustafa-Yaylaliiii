@@ -1,4 +1,4 @@
-**Mustafa Yaylalının özel reposu**
+# **Mustafa Yaylalının özel reposu**
 **Bu repo Yetgen Jump Python Eğitim öncesi ve sonrası uygulamalar için açılmıştır.**
 # Eğitim öncesi uygulamalar.
 ## 1.Hafta
